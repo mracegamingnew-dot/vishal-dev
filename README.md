@@ -4,9 +4,9 @@
 Email Me 👉 ✉️ **mracegamingnew@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** College projects (PHP, MySQL, Web Development)
-- 🌱 **I’m currently learning:** Advance PHP and C++
+- 🌱 **I’m currently learning:** Advanced PHP and C++
 - 📫 **How to reach me:** mracegamingnew@gmail.com
-- 😄 **Pronouns:** Vishal
+- 😄 **Pronouns:** He / Him
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
